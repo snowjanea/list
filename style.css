@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.role {
+  color: #ff3232;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.main-info,
+.list {
+  font-size: 14px;
+}
